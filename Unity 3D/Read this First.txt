@@ -1,0 +1,12 @@
+This is a capstone project for my university hence I cannot provide the codes and steps.
+
+Basically you are a criminal(player) who gets chased down by police cars.
+
+The police cars successfully found the player's car using ray-casting model.
+
+I also added some cars which can find roads on its own and drive accordingly.
+This was possible through Ml-agents training in python's virtual environment
+which can be connected with unity game engine. 
+
+And as far as i know all programming in unity is done through C#. I did
+exactly that. 
