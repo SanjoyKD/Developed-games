@@ -1,0 +1,2 @@
+Step 1: Install Python
+Step 2: Install Pygame(open cmd and type "pip install pygame")
